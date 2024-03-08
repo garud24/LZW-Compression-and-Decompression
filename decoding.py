@@ -1,9 +1,4 @@
-'''
-Name: Himanshu Kiran Garud
-Student ID: 801365910
-University Mail: hgarud@uncc.edu
-Course: ITCS-6114
-'''
+
 
 import math
 import sys
